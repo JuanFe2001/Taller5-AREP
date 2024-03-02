@@ -51,7 +51,9 @@ http://localhost:34000/calculadora
     ![image](https://github.com/JuanFe2001/Taller5-AREP/assets/123691538/e8bc45f9-b768-4ddf-8f95-41aaa73d7651)
 
 
-**Link del repositorio de Docker Hub**: https://hub.docker.com/repository/docker/juanfe1901/taller5/tags?page=1&ordering=last_updated
+**Link del repositorio de Docker Hub:** 
+
+https://hub.docker.com/repository/docker/juanfe1901/taller5/tags?page=1&ordering=last_updated
 
 *con esto puede hacer el pull de la imagen y probar la pagina en su maquina*
 
